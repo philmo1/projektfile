@@ -1,2 +1,2 @@
 # projektfile
-projekt repo
+projekt repo for git exam training
